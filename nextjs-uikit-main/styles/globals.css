@@ -1,0 +1,45 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-image: url(/7.jpg);
+  background-size: 100%;
+  color: #333;
+}
+
+.uk-ijo {
+  background-color: rgb(31, 223, 31);
+  color: #fff;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.thumbslide {
+  bottom: -130px;
+}
+
+.uk-form-width-smalll {
+  width: 300px
+}
+
+.auto {
+  display: block;
+  padding: 5px;
+  margin-top: 5px;
+  width: 360px;
+  height: 160px;
+  overflow: auto;
+}
+
+.hitam {
+  color: #333;
+}
